@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/librarian/Librarian.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/borrower/Borrower.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/views/borrower/LibrarianController.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/login/AuthorizeService.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/views/borrower/BorrowerController.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/views/borrower/UserController.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/search/SearchByAuthor.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/database/Connection.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/book/BookService.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/search/Searcher.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/search/SearchByPulisher.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/book/Book.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/copy/Copy.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/search/SearchByClasification.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/views/user/ActivateAccountForm.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/admin/AdminService.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/search/ConditionSearch.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/copy/CopyService.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/search/SearchByTittle.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/admin/admin.java</file>
+            <file>file:/home/huydo/NetBeansProjects/qlthuvien/src/app/login/AuthenticateService.java</file>
+        </group>
+    </open-files>
+</project-private>
